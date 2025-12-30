@@ -43,7 +43,7 @@ Make sure you have a running [CARLA simulator](https://carla.org/) server compat
 
 For detailed installation instructions, please refer to the [official CARLA docs](https://carla.readthedocs.io/en/0.9.13/start_quickstart/)
 
-## Quick Start
+## Quick Start (easy example)
 
 Run a simple demo to interact with the environment:
 
